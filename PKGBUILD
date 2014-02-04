@@ -1,9 +1,10 @@
 # Contributor: Paul Vinieratos <pvinis @ gmail.com>
+# Maintainer: Paul Vinieratos <pvinis @ gmail.com>
 
 pkgname=firefox-nightly-latest
 pkgdesc='Standalone web browser from mozilla.org, nightly build, always latest version'
 url='https://nightly.mozilla.org'
-pkgver=99.0a1
+pkgver=30.0a1.20140204
 pkgrel=1
 arch=('i686' 'x86_64')
 license=('MPL' 'GPL' 'LGPL')
